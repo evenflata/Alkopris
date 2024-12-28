@@ -1,5 +1,5 @@
 Privacy Policy for Alkopris
-Last updated: [DD/MM/YYYY]
+Last updated: 28/12/2024
 
 Alkopris (“vi”, “oss”, “vår”) er forpliktet til å beskytte personvernet til brukerne våre. Denne personvernerklæringen forklarer hvordan vi håndterer informasjon når du bruker vår app, Alkopris, tilgjengelig på iPhone og iPad.
 
